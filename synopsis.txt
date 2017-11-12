@@ -1,0 +1,5 @@
+Objective: Our objectives can be mainly classified as mood analysis and mood prediction. We want to analyse the subject’s current mood. To achieve accurate results we are going to use the subject’s twitter tweets. Tweets are a good source for determining ones sentiment. 
+These sentiments could further be well utilised to possibly predict how the subject would be feeling later in the day.
+
+Scope: The scope of the project could be seen as fairly broad as the field of mood prediction is yet to be researched well and the application could be really useful. Knowing who how one would be feeling at a certain point of time in the future, can aid one  to prevent terrible meetings, plan special occasions at a better time or even let a second user to find another better time to talk to their dear ones.
+
